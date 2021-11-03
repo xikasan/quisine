@@ -1,2 +1,2 @@
-# quisine
-Quantum menu proposer
+# Quisine
+- Quantum menu proposer
