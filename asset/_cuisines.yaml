@@ -1,0 +1,125 @@
+-
+  name: humburger_steak
+  time: 30
+  quantity: 2
+  nutrients:
+    e: 268
+    p: 15.96
+    f: 16.08
+    c: 14.76
+  materials:
+    minced_beef: 200
+    onion: 0.5
+    butter: cs1
+    bread_crumbs: cp0.25
+    milk: cs1.5
+    egg: 0.5
+    salt: cc0.2
+    nutmeg: cc0.1
+    pepper: cc0.1
+    oil: cs1
+-
+  name: grilled_aji
+  time: 15
+  quantity: 2
+  nutrients:
+    e: 82
+    p: 14.08
+    f: 2.38
+    c: 0.07
+  materials:
+    aji: 2
+    salt: cc2
+-
+  name: ebi_chili
+  time: 30
+  quantity: 4
+  nutrients:
+    e: 212
+    p: 16.23
+    f: 10.67
+    c: 10.11
+  materials:
+    shrimp: 400
+    oil: cs3
+    green_onion: 0.25
+    garlic: 0.5
+    ginger: 1
+    toban_jan: cs0.5
+    ketchup: cp3
+    sake: cp1
+    suger: cc2
+    soy_source: cc2
+    chicken_soup_powder: cc0.5
+    water: cp0.5
+    potato_starch: cc1
+#-
+#  name:
+#  time:
+#  quantity:
+#  material:
+#  nutrients:
+#    e:
+#    p:
+#    f:
+#    c:
+#-
+#  name:
+#  time:
+#  quantity:
+#  material:
+#  nutrients:
+#    e:
+#    p:
+#    f:
+#    c:
+#-
+#  name:
+#  time:
+#  quantity:
+#  material:
+#  nutrients:
+#    e:
+#    p:
+#    f:
+#    c:
+#-
+#  name:
+#  time:
+#  quantity:
+#  material:
+#  nutrients:
+#    e:
+#    p:
+#    f:
+#    c:
+#-
+#  name:
+#  time:
+#  quantity:
+#  material:
+#  nutrients:
+#    e:
+#    p:
+#    f:
+#    c:
+#-
+#  name:
+#  time:
+#  quantity:
+#  material:
+#  nutrients:
+#    e:
+#    p:
+#    f:
+#    c:
+#-
+#  name:
+#  time:
+#  quantity:
+#  material:
+#  nutrients:
+#    e:
+#    p:
+#    f:
+#    c:

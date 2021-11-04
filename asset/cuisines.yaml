@@ -1,0 +1,91 @@
+-
+  name: humburger_steak
+  time: 45
+  price: 450
+  nutrients:
+    e: 268
+    p: 15.96
+    f: 16.08
+    c: 14.76
+-
+  name: grilled_aji
+  time: 15
+  price: 120
+  nutrients:
+    e: 82
+    p: 14.08
+    f: 2.38
+    c: 0.07
+-
+  name: ebi_chili
+  time: 30
+  price: 300
+  nutrients:
+    e: 212
+    p: 16.23
+    f: 10.67
+    c: 10.11
+-
+  name: oden
+  time: 60
+  price: 370
+  nutrients:
+    e: 634
+    p: 46.49
+    f: 30.94
+    c: 41.28
+-
+  name: omlet
+  time: 15
+  price: 150
+  nutrients:
+    e: 353
+    p: 23.08
+    f: 22.44
+    c: 11.16
+-
+  name: kani_tama
+  time: 20
+  price: 500
+  nutrients:
+    e: 461
+    p: 26.7
+    f: 30.63
+    c: 15.82
+-
+  name: curry
+  time: 120
+  price: 280
+  nutrients:
+    e: 859
+    p: 21.03
+    f: 26.51
+    c: 129.17
+-
+  name: gyoza
+  time: 25
+  price: 130
+  nutrients:
+    e: 236
+    p: 8.52
+    f: 9.72
+    c: 28.56
+-
+  name: gratin
+  time: 30
+  price: 240
+  nutrients:
+    e: 488
+    p: 23.47
+    f: 23.91
+    c: 41.51
+
+#-
+#  name:
+#  time:
+#  price:
+#  nutrients:
+#    e:
+#    p:
+#    f:
+#    c:
